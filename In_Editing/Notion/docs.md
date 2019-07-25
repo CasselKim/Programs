@@ -2,6 +2,8 @@
 
 [Notion Offical Homepage](https://www.notion.so/)
 
+[Notion shortcut table](https://www.notion.so/Notion-8b1afafe5dbb4929aabccbdc53355c97)
+
 ![image](https://images.velog.io/post-images/godori/6c75f9c0-eb42-11e8-bcd1-a3c7c763095c/11111.png)
 
 
@@ -39,3 +41,6 @@ Notion is Workspace that contains not only notes, docs but also tasks, projects,
 ## Notes
 
 [First day - Introduction](./notes/1st)
+
+[Second day - Write markdown first time](./notes/2nd)
+
