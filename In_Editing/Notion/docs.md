@@ -40,7 +40,7 @@ Notion is Workspace that contains not only notes, docs but also tasks, projects,
 
 ## Notes
 
-[First day - Introduction](./notes/1st)
+[First day - Introduction](./notes/1st/docs.md)
 
-[Second day - Write markdown first time](./notes/2nd)
+[Second day - Write markdown first time](./notes/2nd/docs.md)
 
