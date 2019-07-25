@@ -150,7 +150,7 @@ When you type  `/` , you can select various types of data
 
 When you create new page, Recommendation will guide you how to write easily.
 
-![1564062857699](C:\Users\82103\AppData\Roaming\Typora\typora-user-images\1564062857699.png)
+![image](https://user-images.githubusercontent.com/48755377/61885776-6ab8bf80-af39-11e9-8540-9eb06492a373.png)
 
 you can add an emoji and cover on the top by clicking `Add Icon`  and  `Add Cover`, which can be changed whenever you want.
 
