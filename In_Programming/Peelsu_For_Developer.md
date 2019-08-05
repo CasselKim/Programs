@@ -1,6 +1,17 @@
 # 필수프로그램 for developer
 본 마크다운은 포맷 후에 프로그램들 따로따로 받기 귀찮아서 적는 글입니다.  
 
+## 요약  
+[Python](https://www.python.org/downloads/)  
+[Anaconda](https://www.anaconda.com/distribution/)  
+[Pycharm](https://www.jetbrains.com/pycharm/download/#section=windows)  
+[Visualstudio](https://visualstudio.microsoft.com/ko/downloads/) (cuda 받기 전에 먼저 받아주세요)  
+[cuda](https://developer.nvidia.com/cuda-downloads?target_os=Windows&target_arch=x86_64&target_version=10&target_type=exelocal) (텐서플로우2.0부터는 cuda 10.0 사용가능)  
+[cuDNN](https://developer.nvidia.com/rdp/cudnn-download)  
+[Typora](https://typora.io/#windows)  
+[git](https://git-scm.com/downloads)  
+
+## 세부사항  
 [Python](https://www.python.org/downloads/)
 ![image](https://user-images.githubusercontent.com/48755377/62468941-2d262300-b7d2-11e9-85e5-b962cd1b168a.png)  ![image](https://user-images.githubusercontent.com/48755377/62469076-7f674400-b7d2-11e9-9a3f-bffba342a18e.png)
 
@@ -31,17 +42,17 @@
 [cuDNN](https://developer.nvidia.com/rdp/cudnn-download)
 ![image](https://user-images.githubusercontent.com/48755377/62470119-ab83c480-b7d4-11e9-8d69-199b042494dd.png)
 ![image](https://user-images.githubusercontent.com/48755377/62471705-30bca880-b7d8-11e9-90bb-e9a01e76e7db.png)
-![image](https://user-images.githubusercontent.com/48755377/62471664-1a165180-b7d8-11e9-97bb-0defc19f7a58.png)
-`conda create -y -n cuda ipykernel`
-`activate cuda`
-`pip install tensorflow-gpu==2.0.0-beta1`
+![image](https://user-images.githubusercontent.com/48755377/62471664-1a165180-b7d8-11e9-97bb-0defc19f7a58.png)  
+`conda create -y -n cuda ipykernel`  
+`activate cuda`  
+`pip install tensorflow-gpu==2.0.0-beta1`  
+  
+`conda create -y -n pytorch ipykernel`  
+`activate pytorch`  
+`conda install pytorch torchvision cudatoolkit=10.1 -c pytorch`   
 
-`conda create -y -n pytorch ipykernel`
-`activate pytorch`
-`conda install pytorch torchvision cudatoolkit=10.1 -c pytorch`  
 
-
-
+  
 [Typora](https://typora.io/#windows)  
-
+  
 [git](https://git-scm.com/downloads)
