@@ -10,19 +10,9 @@
 
 ##  In Programming
 
-[Python](./In_Programming/Python/docs.md)
+[필수프로그램 for Everyone](In_Programming/Peelsu_For_Everyone.md)
 
-[Pycharm](./In_Programming/Pycharm/docs.md)
-
-[Jupyter notebook](./In_Programming/JupyterNotebook/docs.md)
-
-[Jupyter Lab](./In_Programming/JupyterLab/docs.md)
-
-[Anaconda](./In_Programming/Anaconda/docs.md)
-
-[Nvidia - Cuda](./In_Programming/Cuda/docs.md)
-
-[Nvidia - Cudnn](./In_Programming/Cudnn/docs.md)
+[필수프로그램 for Developer](In_Programming/Peelsu_For_Developer.md)
 
 [Git](./In_Programming/Git/docs.md)
 
