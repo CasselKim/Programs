@@ -4,8 +4,6 @@
 
 ![image](https://img.newatlas.com/wyvern-programming-languages-in-one.jpg?auto=format%2Ccompress&fit=max&q=60&w=1000&s=ef2b9f666095b7ee4c895c7773651d86)
 
-[**Essential Programs after format**](./format.md)  
-
 
 
 ##  In Programming
