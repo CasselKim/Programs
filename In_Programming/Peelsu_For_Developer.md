@@ -46,7 +46,8 @@
 `conda create -y -n cuda ipykernel`  
 `activate cuda`  
 `pip install tensorflow-gpu==2.0.0-beta1`  
-  
+[텐서플로우 path 설정법](https://pythonkim.tistory.com/137)  
+
 `conda create -y -n pytorch ipykernel`  
 `activate pytorch`  
 `conda install pytorch torchvision cudatoolkit=10.1 -c pytorch`   
