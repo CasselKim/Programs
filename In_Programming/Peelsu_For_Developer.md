@@ -10,6 +10,8 @@
 [cuDNN](https://developer.nvidia.com/rdp/cudnn-download)  
 [Typora](https://typora.io/#windows)  
 [git](https://git-scm.com/downloads)  
+[Vscode](https://code.visualstudio.com/)  
+
 
 ## 세부사항  
 [Python](https://www.python.org/downloads/)
@@ -56,4 +58,9 @@
   
 [Typora](https://typora.io/#windows)  
   
-[git](https://git-scm.com/downloads)
+[git](https://git-scm.com/downloads)  
+  
+    
+[Vscode](https://code.visualstudio.com/)  
+[Vscode 설치하는방법](https://murra.tistory.com/70?category=684947)    
+
