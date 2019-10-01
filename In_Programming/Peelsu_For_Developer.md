@@ -10,7 +10,7 @@
 [cuDNN](https://developer.nvidia.com/rdp/cudnn-download)  
 [Typora](https://typora.io/#windows)  
 [git](https://git-scm.com/downloads)  
-[Vscode](https://code.visualstudio.com/)  
+[Vscode](https://jueun-park.github.io/2018-08-03/vscode-config-for-ps)  
 
 
 ## 세부사항  
@@ -62,5 +62,6 @@
   
     
 [Vscode](https://code.visualstudio.com/)  
-[Vscode 설치하는방법](https://murra.tistory.com/70?category=684947)    
+[Vscode 설치하는방법](https://jueun-park.github.io/2018-08-03/vscode-config-for-ps)    
+**폴더를 새로 열때마다 설정이 바뀐다** 설정 잘못했으면 지우고 다시할 수 있음!  
 
