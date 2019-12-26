@@ -2,7 +2,7 @@
 
 **Deal with Programs**
 
-![image](https://img.newatlas.com/wyvern-programming-languages-in-one.jpg?auto=format%2Ccompress&fit=max&q=60&w=1000&s=ef2b9f666095b7ee4c895c7773651d86)
+![image](https://t1.daumcdn.net/cfile/tistory/277EBF4A5935317219)
 
 
 
