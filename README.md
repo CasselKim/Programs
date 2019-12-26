@@ -8,9 +8,11 @@
 
 ##  In Programming
 
-[필수프로그램 for Everyone](In_Programming/Peelsu_For_Everyone.md)
+[필수프로그램 for Everyone](In_Programming/Peelsu_For_Everyone.md)  
 
-[필수프로그램 for Developer](In_Programming/Peelsu_For_Developer.md)
+[필수프로그램 for Developer](In_Programming/Peelsu_For_Developer.md)  
+
+[필수프로그램 for VFX](In_Programming/Peelsu_For_VFX.md)  
 
 [Git](./In_Programming/Git/docs.md)
 
