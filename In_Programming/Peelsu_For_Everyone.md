@@ -11,7 +11,7 @@
 [KM플레이어](http://www.kmplayer.com/)  
   
 [Notion](https://www.notion.so/)  
-[notepad](https://notepad-plus-plus.org/download/v7.7.1.html)  
+[notepad](https://notepad-plus-plus.org/downloads/)  
 [한컴뷰어](https://www.hancom.com/cs_center/csDownload.do)  
   
 [크롬](https://www.google.com/intl/ko/chrome/)  
