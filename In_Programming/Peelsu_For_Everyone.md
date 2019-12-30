@@ -13,6 +13,7 @@
 [Notion](https://www.notion.so/)  
 [notepad](https://notepad-plus-plus.org/downloads/)  
 [한컴뷰어](https://www.hancom.com/cs_center/csDownload.do)  
+[Sumartra PDF](https://www.sumatrapdfreader.org/download-free-pdf-viewer.html)  
   
 [크롬](https://www.google.com/intl/ko/chrome/)  
 [파이어폭스](https://www.mozilla.org/ko/firefox/new/)  
